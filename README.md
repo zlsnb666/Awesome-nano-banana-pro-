@@ -184,6 +184,8 @@ Avoid:
 
 # （2）免费使用nano banana pro的方式汇总：
 ### 个人分享，没有为任何平台打广告
+
+### 其中方式1-2需要挂vpn才能使用，方式3-7国内网络即可使用
 1. Gemini官网（学生认证可以免费使用一年pro，可以自行去搜教程，或者去某小黄鱼）
 2. Google AI studio：更适合开发者使用
 3. runninghub：https://www.runninghub.cn/ai-detail/1991550248581603329
@@ -194,6 +196,8 @@ Avoid:
 权威的AI排名网站，里面可以免费使用市面上大部分ai模型，还有battle模式，在同一组提示词下比较两个模型，还有盲选模式，公平比较各种模型的效果。
 6. Tapnow：集成了各类AI模型，包括生图的：nano banana pro，Midjourney，seedream4.5等，生视频的kling、Veo、Runway等，且从最新模型到旧版本的都可以使用
 可以非常简单明了的搭建系统的视频生成工作流。缺点：免费额度少，费用贵
+7. w8nring：http://www.w8nring.com
+
 
 
 
